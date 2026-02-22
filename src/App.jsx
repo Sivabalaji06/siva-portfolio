@@ -106,6 +106,18 @@ function App() {
           </ul>
         </div>
       </section>
+      <section>
+  <h2>Production Support Approach</h2>
+  <div className="card">
+    <ul>
+      <li>Analyze logs using Linux commands (tail, grep).</li>
+      <li>Validate database data using SQL queries.</li>
+      <li>Identify root cause of application errors.</li>
+      <li>Ensure SLA compliance and system uptime.</li>
+      <li>Support deployment and monitor production health.</li>
+    </ul>
+  </div>
+</section>
 
       {/* EDUCATION */}
       <section id="education">
